@@ -9,3 +9,6 @@ Specific case study: Your business is a digital e-commerce unit with electronic 
 of these indicators. And importantly, the boss only wants to see the most recent months because the boss knows "if you get all the data, you will probably have to wait until tomorrow". Let's do it!
 
 Instead of taking all the data on the database to build a sales report, we will only need to care about specific metrics and within a certain period of time. This will help us minimize redundant data in the report. Because this data will reduce our performance, this process is extremely necessary. However, to implement this solution is not simple for business managers or even individuals who manage the database. Therefore, a Data Analyst will help businesses solve this problem in the simplest and fastest way possible.
+
+**Link Report Metrics by PowerBI:**
+https://drive.google.com/drive/folders/1qEawNyIz6XYC1UD4QUxPACRgfwEXTNLk?usp=sharing
